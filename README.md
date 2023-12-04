@@ -1,5 +1,4 @@
-#######################
-"\n"Author :Niladri Das"\n"
-This repo is only for beginner those are learning now C
-#300 Basic problem
-# C_support
+<br>Author :Niladri Das 
+<br>This repo is only for beginner those are learning now C
+<br>#300 Basic problem
+<br># C_support
