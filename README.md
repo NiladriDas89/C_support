@@ -1,4 +1,5 @@
 <br>Author :Niladri Das 
-<br>This repo is only for beginner those are learning now C
+</br><br>This repo is only for beginner those are learning now C</br>
 <br>#300 Basic problem
-<br># C_support
+</br>
+<br># C_support</br>
