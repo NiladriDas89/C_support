@@ -1,6 +1,11 @@
 {
     "files.associations": {
-        "TEST.C": "cpp"
+        "TEST.C": "cpp",
+        "1A.C": "cpp",
+        "1algo.C": "cpp",
+        "1algorith.C": "cpp",
+        "algorith.C": "cpp",
+        "stdio.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
