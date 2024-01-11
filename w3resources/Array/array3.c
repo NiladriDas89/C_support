@@ -9,22 +9,30 @@ Expected Output :
 Sum of all elements stored in the array is : 15*/
 #include<stdio.h>
 void main(){
-int arr[3];
+int num,i,sum=0;
+printf("Enter your Size of the array :\t");
+scanf("%d",&num);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+int arr[num];
+for ( i = 0; i<num; i++)
+{   printf("Enter your Number :");
+    scanf("%d",&arr[i]);
+    sum+=arr[i];}
+printf("\n\t%d",sum);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
