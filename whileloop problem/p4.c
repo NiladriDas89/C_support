@@ -14,7 +14,7 @@ while (i<=10)
 int j=0,k=1;
 while (j<=10 )
 { 
-   ( (usr[j]==usr[j+1]))?printf("these value are duplicate: %d %d\n",usr[j],usr[j+1]):printf("none: \n");
+   ( (usr[j]==usr[j+1]||usr[j+2]))?printf("these value are duplicate: %d \n",usr[j]):printf("none: \n");
         
     j++;
 }
