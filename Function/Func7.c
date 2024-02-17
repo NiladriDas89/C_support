@@ -14,7 +14,7 @@ void prime(int n) {
         return;
     }
 
-    for (int i = 2;  i <= n; i++) {
+    for (int i = 2; i * i <= n; i++) {
         if (n % i == 0) {
             printf("Not prime\n");
             return;
